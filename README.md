@@ -9,17 +9,22 @@
   <a href="https://github.com/henripira" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
   
 </div>
-
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=henripira&show_icons=true&theme=dracula"
-  media="(prefers-color-scheme: dark)"
+---
+<br/>
+<br/>
+### 📊 Estatísticas
+<p>
+<img
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=henripira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=henripira&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=henripira&show_icons=true" />
-</picture>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henripira&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  <img 
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?      username=henripira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
