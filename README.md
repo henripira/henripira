@@ -7,7 +7,7 @@
         <img 
             alt="GITHUB" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
+            src="https://github.com/henripira"
         />
     </a>
 </p>
