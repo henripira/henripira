@@ -26,7 +26,7 @@
             src="https://custom-icon-badges.demolab.com/badge/%20Discord-7B68EE?style=for-the-badge&logo=discord&logoColor=white"
         />
     </a>
-    <a href="https://github.com/henripira">
+    <a href="https://x.com/hmonferron">
         <img 
             alt="linkedin perfil" 
             title="siga-me" 
