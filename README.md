@@ -5,28 +5,28 @@
 
 <br>
 <p align="left">
-    <a href="https://www.linkedin.com/in/henrique-monferron-pires-407241302/">
+    <a href="https://www.linkedin.com/in/henrique-monferron-pires-407241302/" target="_blank">
         <img 
             alt="github perfil" 
             title="siga-me" 
             src="https://custom-icon-badges.demolab.com/badge/%20Linkedin-white?style=for-the-badge&logo=Lin&logoColor=black"
         />
     </a>
-    <a href="https://github.com/henripira">
+    <a href="https://github.com/henripira" target="_blank">
         <img 
             alt="github perfil" 
             title="siga-me" 
             src="https://custom-icon-badges.demolab.com/badge/%20github-blue?style=for-the-badge&logo=github&logoColor=white"
         />
     </a>
-    <a href="https://discord.com/channels/hmonferron">
+    <a href="https://discord.com/channels/hmonferron" target="_blank">
         <img 
             alt="discord perfil" 
             title="siga-me" 
             src="https://custom-icon-badges.demolab.com/badge/%20Discord-7B68EE?style=for-the-badge&logo=discord&logoColor=white"
         />
     </a>
-    <a href="https://x.com/hmonferron">
+    <a href="https://x.com/hmonferron" target="_blank">
         <img 
             alt="linkedin perfil" 
             title="siga-me" 
