@@ -2,14 +2,12 @@
 
 **`Estudante`**
 
-Me chamo Henrique M Pires, tenho 33 anos e sou natural de São Paulo interior. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na xxxxxx. Gosto de tecnologia e procuro melhorar meu conhecimento através do estudo e prárica.
-
 <p align="left">
     <a href="[https://github.com/henripira?tab=followers)]">
         <img 
             alt="GITHUB" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a>
 </p>
